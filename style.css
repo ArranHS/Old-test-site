@@ -1,9 +1,45 @@
-#header {
-	text-align: center;
-	background-color: #B0B0B0;
-	border-radius: 25px;
-	padding 40px, 400px;
-	width: 250px;
-	length: 500px;
-	color: black;
-}
+/*- Menu Tabs 6--------------------------- */
+
+    #tabs6 {
+      font: bold 11px/1.5em Verdana;
+      float:left;
+      width:100%;
+      background:change-background;
+      line-height:normal;
+      }
+    #tabs6 ul {
+	  margin:0;
+	  padding:10px 10px 0 50px;
+	  list-style:none;
+      }
+    #tabs6 li {
+      display:inline;
+      margin:0;
+      padding:0;
+      }
+    #tabs6 a {
+      float:left;
+      background:url("images/tableft6.gif") no-repeat left top;
+      margin:0;
+      padding:0 0 0 4px;
+      text-decoration:none;
+      }
+    #tabs6 a span {
+      float:left;
+      display:block;
+      background:url("images/tabright6.gif") no-repeat right top;
+      padding:5px 15px 4px 6px;
+      color:#FFF;
+      }
+    /* Commented Backslash Hack hides rule from IE5-Mac \*/
+    #tabs6 a span {float:none;}
+    /* End IE5-Mac hack */
+    #tabs6 a:hover span {
+      color:#FFF;
+      }
+    #tabs6 a:hover {
+      background-position:0% -42px;
+      }
+    #tabs6 a:hover span {
+      background-position:100% -42px;
+      }
