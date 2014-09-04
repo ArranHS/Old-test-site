@@ -5,3 +5,21 @@
   border: 1px;
   color: black;
 }
+
+header.button {
+   display: -moz-inline-stack;
+   display: inline-block;
+   width: 102px;
+   height: 34px;
+   background: url("http://dabuttonfactory.com/b.png?t=About%20me&f=Calibri-Bold&ts=15&tc=fffafb00&tshs=1&tshc=00000000&it=png&c=5&bgt=gradient&bgc=fa1919&ebgc=ba1111&be=on&bs=1&bc=000000&shs=1&shc=222&sho=se&hp=20&vp=11") no-repeat;
+   line-height: 34px;
+   vertical-align: text-middle;
+   text-align: center;
+   color: #fffafb;
+   font-family: Calibri;
+   font-size: 15px;
+   font-weight: bold;
+   font-style: normal;
+   text-shadow: #000000 1px 1px 0;
+}
+
