@@ -6,7 +6,7 @@
   color: black;
 }
 
-#header {
+#textbg {
   text-align: center;
   background-color: #D8D8D8;
   border-radius: 20px;
@@ -15,7 +15,7 @@
   color: black;
 }
 
-#textbg {
+#leftmenu {
   text-align: left;
   background-color: #D8D8D8;
   border-radius: 10px;
