@@ -21,4 +21,7 @@
   border-radius: 20px;
 }
 
+#nobulletpointsli {
+    list-style-type: none;
+}
 
