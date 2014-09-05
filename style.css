@@ -6,6 +6,15 @@
   color: black;
 }
 
+#header {
+  text-align: center;
+  background-color: #D8D8D8;
+  border-radius: 20px;
+  border-style: dotted;
+  max-width: 500px;
+  color: black;
+}
+
 #sidemenu {
   text-align: left;
   background-color: #D8D8D8;
