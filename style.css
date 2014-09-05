@@ -1,3 +1,9 @@
+#title {
+  border-radius: 5px;
+  background-color: #303030;
+  max-width: 600px;
+}
+
 #header {
   text-align: center;
   background-color: #D8D8D8;
